@@ -9,7 +9,7 @@ A computer cluster project for experimentation and personal use.
 
 # OS
 All Worker nodes use [Ubuntu Server](https://ubuntu.com/download/server)\
-All Master nodes use [Ubuntu Desktop](https://ubuntu.com/download/desktop)
+All Manager nodes use [Ubuntu Desktop](https://ubuntu.com/download/desktop)
 
 # Software
 Using [Microk8s](https://canonical.com/microk8s) for cluster\
